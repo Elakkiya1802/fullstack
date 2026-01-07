@@ -1,0 +1,18 @@
+.in{
+    width: 500px;
+    height: 300px;
+    margin: 50px auto;
+    background-color: rgb(254, 254, 254);
+    border-left: 2px solid brown;
+    border-right: 2px solid brown;
+    border-top: 2px solid brown;
+    border-bottom: 2px solid brown;
+    padding-top: 40px;
+}
+.blue{
+    background-color: rgba(143, 143, 232, 0.475);
+    border-radius: 20px;
+}
+body{
+    background-color: rgba(119, 119, 205, 0.605);
+}
