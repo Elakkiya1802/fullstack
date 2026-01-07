@@ -1,0 +1,14 @@
+{
+  "name": "html-js-project",
+  "version": "1.0.0",
+  "description": "Simple HTML JavaScript project with image toggle",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Elakkiya",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
